@@ -6,4 +6,5 @@
   <Project Path="Lec04/Lec04.vcxproj" />
   <Project Path="Lec04_Rectangle/Lec04_Rectangle.vcxproj" />
   <Project Path="MusicStreamingService/MusicStreamingService.vcxproj" />
+  <Project Path="SmartHome/SmartHome.vcxproj" />
 </Solution>
